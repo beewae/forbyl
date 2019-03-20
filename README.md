@@ -2,4 +2,5 @@
 
 ## The First Step
 
-you should register a account in github.
+1. you should register a account in github.com.
+2. Then `create` or `fork` a project.
