@@ -1,4 +1,4 @@
-# How use github simply
+# How to use git and github simply
 
 ## The First Step
 
